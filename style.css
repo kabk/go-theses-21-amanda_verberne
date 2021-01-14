@@ -76,13 +76,12 @@ text-decoration: none;
 .menuknop{
 margin-left: auto; 
 margin-right: auto;    
-width: 800px;
-float: center;
+width: 80%;
+float: left;
 font-family: voyageregular;
 padding: 5px;
 
-margin-top: 80px;
-margin-bottom: 80px;
+margin:10%;
 font-size: 60px;
 text-align: center;
 border:2px solid white;
@@ -198,6 +197,7 @@ text-align: center;
 }
 
 img{
-/*float:right;*/
-display: inline-block;
+  display:inline;
+
 }
+

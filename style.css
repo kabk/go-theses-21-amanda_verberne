@@ -86,6 +86,12 @@ font-size: 60px;
 text-align: center;
 border:2px solid white;
 text-decoration: none;
+  
+
+}
+
+.menubundle{
+  display: inline-block;
 }
 
 .link{

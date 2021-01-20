@@ -10,7 +10,8 @@ width: 100%;
 @font-face {
 font-family: 'blocusregular';
 src: url('fonts/blocus-webfont.woff2') format('woff2'),
-     url('fonts/blocus-webfont.woff') format('woff');
+     url('fonts/blocus-webfont.woff') format('woff'),
+     url('fonts/blocus-webfont.ttf') format('ttf');
 font-weight: normal;
 font-style: normal;
 

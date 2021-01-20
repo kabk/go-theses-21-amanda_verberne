@@ -628,6 +628,7 @@ line-height: 1;
   }
 }
                             .bigfoot-footnote {
+                              font-family: 'voyageregular';
                               position: absolute;
                               z-index: 10;
                               top: 0;
@@ -636,12 +637,10 @@ line-height: 1;
                               box-sizing: border-box;
                               max-width: 90%;
                               margin: 1.96924em 0;
-                              /*background: #910500;*/
                               background: #574a4a;
                               opacity: 0;
                               border-radius: 0.8em;
                               border: 1px solid #574a4a;
-
                               box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
                               line-height: 0;
                               -webkit-transition-property: opacity, -webkit-transform;
@@ -758,10 +757,7 @@ line-height: 1;
                                               box-sizing: inherit;
                                               overflow: hidden;
                                               margin: 0;
-                                              
-                                              /*border-radius: 3.5em;*/
-
-  
+                                              font-family: 'voyageregular';
                                               line-height: 0;
                                             }
 
@@ -782,7 +778,8 @@ line-height: 1;
                                     -webkit-font-smoothing: subpixel-antialiased;
                                     line-height: normal;
                                     color: white; /*this is the tekst*/
-                                    font-family: blocus;
+                                    font-family: 'voyageregular';
+
                                     font-size: 40pt;
 }
 .bigfoot-footnote__content img {

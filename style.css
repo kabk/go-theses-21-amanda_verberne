@@ -757,7 +757,7 @@ line-height: 1;
                                               box-sizing: inherit;
                                               overflow: hidden;
                                               margin: 0;
-                                              font-family: 'voyageregular';
+                                              font-family: blocusregular;
                                               line-height: 0;
                                             }
 
@@ -778,7 +778,8 @@ line-height: 1;
                                     -webkit-font-smoothing: subpixel-antialiased;
                                     line-height: normal;
                                     color: white; /*this is the tekst*/
-                                    font-family: 'voyageregular';
+                                    font-family: blocusregular;
+
 
                                     font-size: 40pt;
 }
